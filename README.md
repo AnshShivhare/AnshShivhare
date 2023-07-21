@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshivhare&label=Profile%20views&color=0e75b6&style=flat" alt="anshshivhare" /> </p>
 
+- 🔭 I’m currently working on **CRUD app**
+
+- 🌱 I’m currently learning **React.js , APIs**
+  
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **anshshivhareagra@gmail.com**
